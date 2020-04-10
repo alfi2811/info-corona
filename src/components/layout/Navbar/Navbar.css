@@ -1,0 +1,13 @@
+.input-group {
+    width: 80%;
+}
+
+.navbar-expand-lg{
+    box-shadow: 3px -3px 10px 1px black;    
+}
+
+
+.nav-item {
+    font-size: 18px;
+    margin-right: 20px;
+}

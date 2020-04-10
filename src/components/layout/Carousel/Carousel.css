@@ -1,0 +1,27 @@
+
+
+.slick-prev {
+    left: -7% !important;
+    top: 40% !important;
+    z-index: 1;    
+    padding: 20px;
+  }
+.slick-next:before, .slick-prev:before{
+    font-size: 80px;
+    color: #ff0000;
+}
+.slick-dots li button:before {
+    font-size: 15px;
+    color: #ff0000;
+}
+.slick-dots li.slick-active button:before {
+    color: red;
+}
+
+.slick-next {
+    right: 2% !important;
+    top: 40% !important;
+    z-index: 1;
+
+    padding: 20px;
+}
